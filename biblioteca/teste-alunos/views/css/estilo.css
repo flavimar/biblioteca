@@ -1,0 +1,33 @@
+.tabela_aluno{
+  background:#fff;
+  box-shadow:2px 3px 10px;
+  height:250px;
+}
+.cartao-formulario{
+   box-shadow:3px 3px 14px #000;
+   border-radius:20px;
+   background:#fff;
+   padding:4px;
+
+}
+.verde{
+      background-color:#047737 ;
+        color: white;
+}
+ .cabecario-tabela{
+   background-color:#047737 ;
+   color: white;
+ }
+ .botao-formulario{
+   background-color: #047737;
+   text-align: center;
+   color: white;
+   border-color: #047737;
+   width:100%;
+ }
+  .center{
+    text-align: center;
+   }
+  .espaco-cima{
+   margin-top:25px;
+  }
